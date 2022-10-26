@@ -629,11 +629,6 @@ video {
   --tw-gradient-stops: var(--tw-gradient-from), rgb(113 63 18 / 0.5), var(--tw-gradient-to);
 }
 
-.via-yellow-500\/50 {
-  --tw-gradient-to: rgb(234 179 8 / 0);
-  --tw-gradient-stops: var(--tw-gradient-from), rgb(234 179 8 / 0.5), var(--tw-gradient-to);
-}
-
 .via-yellow-900\/10 {
   --tw-gradient-to: rgb(113 63 18 / 0);
   --tw-gradient-stops: var(--tw-gradient-from), rgb(113 63 18 / 0.1), var(--tw-gradient-to);
@@ -704,10 +699,6 @@ video {
   font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
-.font-sans {
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
-
 .text-4xl {
   font-size: 2.25rem;
   line-height: 2.5rem;
@@ -739,9 +730,9 @@ video {
   color: transparent;
 }
 
-.text-yellow-600 {
+.text-yellow-700 {
   --tw-text-opacity: 1;
-  color: rgb(202 138 4 / var(--tw-text-opacity));
+  color: rgb(161 98 7 / var(--tw-text-opacity));
 }
 
 .text-gray-500 {
