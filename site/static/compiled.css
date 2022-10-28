@@ -557,8 +557,8 @@ video {
   scroll-snap-type: y var(--tw-scroll-snap-strictness);
 }
 
-.snap-mandatory {
-  --tw-scroll-snap-strictness: mandatory;
+.snap-proximity {
+  --tw-scroll-snap-strictness: proximity;
 }
 
 .snap-start {
